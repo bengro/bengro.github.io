@@ -9,6 +9,6 @@ Find me out more about me [here](https://github.com/bengro) or [here](https://tw
 
 <div class="footer">
 
-[E-Mail](mailto:benjamin.groehbiel@gmail.com)
+[E-Mail](mailto:benjamin.groehbiel+public@gmail.com)
 
 </div>
